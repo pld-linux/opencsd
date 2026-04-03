@@ -2,7 +2,7 @@ Summary:	OpenCSD - open source CodeSight Trace Decode library
 Summary(pl.UTF-8):	OpenCSD - mająca otwarte źródła biblioteka dekodowania śladów CodeSight
 Name:		opencsd
 Version:	0.12.0
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 #Source0Download: https://github.com/Linaro/OpenCSD/releases
